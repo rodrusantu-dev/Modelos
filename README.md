@@ -5,13 +5,13 @@ Toda classificação feita por pastas.
 
 ## 🚀 Começando
 
-Aqui inserir as intruções caso eu venha a tornar esse repositório público.
+Aqui inserir as instruções caso eu venha a tornar esse repositório público.
 
 ## 📦 Implantação
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Repositório ARQUIVOS .MD](https://www.google.com/) 
-* [Repositório BANCO DE IMAGENS](https://www.google.com/) 
+* [Repositório ARQUIVOS .MD](https://github.com/rodrusantu-dev/Modelos/tree/main/Arquivos-MD) 
+* [Repositório BANCO DE IMAGENS](https://github.com/rodrusantu-dev/Modelos/tree/main/Imagens) 
 
 
